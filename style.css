@@ -11,7 +11,7 @@
 }
 
 :root{
-    --main-color: #bc9667;
+    --main-color: #4244d6;
     --secondary-color: #edeae3;
     --text-color: #1b1b1b;
     --bg-color: #fff;
@@ -92,7 +92,7 @@ header{
 
 .home-text h1{
     font-size: 3.4rem;
-    color: var(--main-color);
+    color: rgb(20, 85, 116);
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -112,7 +112,7 @@ header{
 }
 
 .btn:hover{
-    background: #8a6f4d;
+    background: #070e72;
 }
 
 .about{
